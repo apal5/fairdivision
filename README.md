@@ -23,3 +23,43 @@ check if requirement.txt was created
 ```
 pip3 install -r requirements.txt
 ```
+
+###Installing gurobi
+1. Create an academic account on gurobi [website](https://www.gurobi.com/downloads/gurobi-software/) and install download respective version. (for steps by gurobi)[https://www.gurobi.com/features/academic-named-user-license/]
+2. Installation
+```
+ >conda config --add channels https://conda.anaconda.org/gurobi
+ >conda install gurobi
+ Collecting package metadata (current_repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: /opt/homebrew/Caskroom/miniforge/base
+
+  added / updated specs:
+    - gurobi
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    gurobi-10.0.1              |          py310_0        39.2 MB  gurobi
+    ------------------------------------------------------------
+                                           Total:        39.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  gurobi             gurobi/osx-64::gurobi-10.0.1-py310_0 
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages
+                                                                                                       
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+```
