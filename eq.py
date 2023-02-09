@@ -130,8 +130,10 @@ def stats_spliddit():
     print('M: ', min(M), max(M))
     print('3, 6: ', nm[3, 6])
 
-
+#Will run some experiments 
 def eq_goods():
+    #Loading preferences into an array I 
+    # Consists of instances of fair division Instance i = [Agent, Item, Valuation/Prefernces]
     I = load_real_instances()
     num_instances = len(I)
     print('loaded {} instances'.format(num_instances))
@@ -147,7 +149,9 @@ def eq_goods():
             continue
 
         start = time.time()
-        status, w, U, A = mnw(V)
+        #Maximize nash welfare
+        #Output to mnw is an Allocation A 
+        status, w, U, A = mnw(V) 
         end = time.time()
         logging.info('done with {} for instance {} in {}s, status {}'.format('mnw', count, end - start, status))
         po = ispo(V, A)

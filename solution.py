@@ -17,7 +17,7 @@ from gurobipy import *
 import config
 from solution_util import *
 from market import market_solve
-from market_eq import market_eq_solve, market_eq_chores_solve
+from market_eq import market_eq_solve
 
 
 def mnw(V):

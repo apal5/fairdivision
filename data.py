@@ -10,6 +10,7 @@ def flip_biased_coin(p=0.5):
     return np.random.random() < p
 
 
+#Generating Binary prefernces want / dont want
 def generate_binary_instance_withbias(m, n, p=0.5):
     V = np.zeros((n, m))
     for j in range(n):
@@ -61,7 +62,7 @@ def generate_positive_dirichlet_instances(m, n, size):
         I.append(V)
     return I
 
-
+#Loads data generated from pickle file 
 def load_positive_dirichlet_instances(m, n, start=0, end=1, loc='data/'):
     I = list()
     for i in range(start, end+1):
@@ -70,7 +71,7 @@ def load_positive_dirichlet_instances(m, n, start=0, end=1, loc='data/'):
             I.append(V)
     return I
 
-
+#Real world data (Not public data)
 def load_real_instances(filename='spliddit_goods_data.mat'):
     data = scipy.io.loadmat(filename)
     instances = data['valuations'][0]
