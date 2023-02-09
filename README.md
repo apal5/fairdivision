@@ -65,9 +65,7 @@ Executing transaction: done
 ```
 
 
-Follow - file:///Library/gurobi1001/macos_universal2/docs/quickstart/cs_python_installation_opt.html
-
-file:///Library/gurobi1001/macos_universal2/docs/quickstart/retrieving_and_setting_up_.html#section:RetrieveLicense
+Follow Links [1](file:///Library/gurobi1001/macos_universal2/docs/quickstart/cs_python_installation_opt.html) [2](file:///Library/gurobi1001/macos_universal2/docs/quickstart/retrieving_and_setting_up_.html#section:RetrieveLicense)
 
 ### gurobi liscence written to 
 ```
@@ -96,4 +94,8 @@ Top level funtions which wraps complex code
   3.1 test_leximin
 4. Market  -  EF1 version; compute an EF1 + PO allocation using market based algorithms for valuations V
   4.1 market_eq
+
+#### 4. [property.py](property.py)
+checks if output satisfies different properties like equitability, Envy Faireness etc etc
+
 
