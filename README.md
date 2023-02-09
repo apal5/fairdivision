@@ -1,5 +1,5 @@
 # fairdivision
-[Reading] (https://cs.binghamton.edu/~sikdar/papers/FSVX19equitable.pdf)
+[Reading](https://cs.binghamton.edu/~sikdar/papers/FSVX19equitable.pdf)
 [Notes](https://www.notion.so/Equitable-allocations-4009ba1acc7f4b89ae57ff7d93d733a6)
 
 ### Activating venv
@@ -25,7 +25,7 @@ pip3 install -r requirements.txt
 ```
 
 ### Installing gurobi
-1. Create an academic account on gurobi [website](https://www.gurobi.com/downloads/gurobi-software/) and install download respective version. [for steps by gurobi] (https://www.gurobi.com/features/academic-named-user-license/)
+1. Create an academic account on gurobi [website](https://www.gurobi.com/downloads/gurobi-software/) and install download respective version. [for steps by gurobi](https://www.gurobi.com/features/academic-named-user-license/)
 2. Installation
 ```
  >conda config --add channels https://conda.anaconda.org/gurobi
@@ -65,7 +65,7 @@ Executing transaction: done
 ```
 
 
-Follow Links [1](file:///Library/gurobi1001/macos_universal2/docs/quickstart/cs_python_installation_opt.html) [2](file:///Library/gurobi1001/macos_universal2/docs/quickstart/retrieving_and_setting_up_.html#section:RetrieveLicense)
+Follow Links [1](file:///Library/gurobi1001/macos_universal2/docs/quickstart/cs_python_installation_opt.html) and [2](file:///Library/gurobi1001/macos_universal2/docs/quickstart/retrieving_and_setting_up_.html#section:RetrieveLicense)
 
 ### gurobi liscence written to 
 ```
