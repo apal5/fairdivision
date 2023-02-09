@@ -76,12 +76,12 @@ License 929083 written to file /Users/anmolpal/gurobi.lic
 
 
 ## Code Structure
-#### 1. [data.py] (data.py)
+#### 1. [data.py](data.py)
 Generate Functions 
 Load Funtions 
 
-#### 2. [main.py] (main.py)
+#### 2. [main.py](main.py)
 Calls a function to generate equitable allocations - eq_goods()
 
-#### 3. 
-Will run some experiments on differnet allocation methods eg[Maximize nash welfare or leximin](solution.py) whether or not the defined properties are met
+#### 3. [eq.py](eq.py)
+Will run some experiments on differnet allocation methods eg [Maximize nash welfare or leximin(solution.py) whether or not the defined properties are met
