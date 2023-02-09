@@ -360,8 +360,8 @@ def ispo2(V, A, chores=False, tol=10**-5):
     model.setObjective(quicksum([vbvars[j] for j in range(n)]), GRB.MAXIMIZE)
 
     model.optimize()
-
     status = model.Status
+    print(status)
 
     if int(status) == int(GRB.INFEASIBLE):
         if tol < 0.1:

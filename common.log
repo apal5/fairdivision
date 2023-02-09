@@ -1,0 +1,40 @@
+2023-02-09 00:12:15,153 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 00:12:15,158 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 00:12:15,668 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.5230989456176758s, status True
+2023-02-09 00:12:15,670 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 00:12:15,671 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 00:12:15,672 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 00:12:15,673 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 00:12:15,674 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 00:15:02,127 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 00:15:02,130 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 00:15:02,771 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.6495099067687988s, status True
+2023-02-09 00:15:02,772 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 00:15:02,773 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 00:15:02,774 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 00:15:02,775 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 00:15:02,776 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 16:04:15,381 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:04:15,392 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:04:16,224 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.8513028621673584s, status True
+2023-02-09 16:04:16,226 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:04:16,228 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:04:16,230 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:04:16,232 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:04:16,234 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 16:11:43,468 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:11:43,472 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:11:43,795 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.3328216075897217s, status True
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:11:43,797 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:11:43,797 DEBUG property 371 ispo2:: ILP infeasible with tolerance 0.1
+2023-02-09 16:12:40,518 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:12:40,522 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:12:41,137 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.6208090782165527s, status True
+2023-02-09 16:12:41,141 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:12:41,142 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:12:41,143 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:12:41,145 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:12:41,146 DEBUG property 371 ispo2:: ILP infeasible with tolerance 0.1

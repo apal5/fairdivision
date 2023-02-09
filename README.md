@@ -72,6 +72,7 @@ Follow Links [1](file:///Library/gurobi1001/macos_universal2/docs/quickstart/cs_
 License 929083 written to file /Users/anmolpal/gurobi.lic
 ```
 
+### Gurobi Documentation for checking error [codes](https://www.gurobi.com/documentation/9.5/refman/optimization_status_codes.html)
 
 ## Code Structure
 #### 1. [data.py](data.py)
