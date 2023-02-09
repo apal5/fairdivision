@@ -24,7 +24,7 @@ check if requirement.txt was created
 pip3 install -r requirements.txt
 ```
 
-###Installing gurobi
+### Installing gurobi
 1. Create an academic account on gurobi [website](https://www.gurobi.com/downloads/gurobi-software/) and install download respective version. [for steps by gurobi] (https://www.gurobi.com/features/academic-named-user-license/)
 2. Installation
 ```
@@ -85,3 +85,15 @@ Calls a function to generate equitable allocations - eq_goods()
 
 #### 3. [eq.py](eq.py)
 Will run some experiments on differnet allocation methods eg [Maximize nash welfare or leximin(solution.py) whether or not the defined properties are met
+
+For every algorithm 
+Top level funtions which wraps complex code 
+1. Maximum Nash Welfare allocation for valuations V [mnw : mnw_solve](solution.py)
+  1.1 test_mnw
+2. Maximum Nash Welfare Binary mnw_binary(V)
+  2.1 test_mnw_binary
+3. Leximin allocation [leximin](solution.py)
+  3.1 test_leximin
+4. Market  -  EF1 version; compute an EF1 + PO allocation using market based algorithms for valuations V
+  4.1 market_eq
+
