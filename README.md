@@ -87,15 +87,16 @@ Will run some experiments on differnet allocation methods eg [Maximize nash welf
 
 For every algorithm 
 Top level funtions which wraps complex code 
+```
 1. Maximum Nash Welfare allocation for valuations V [mnw : mnw_solve](solution.py)
-  1. test_mnw
+  - test_mnw
 2. Maximum Nash Welfare Binary mnw_binary(V)
-  2. test_mnw_binary
+  - test_mnw_binary
 3. Leximin allocation [leximin](solution.py)
-  3. test_leximin
+  - test_leximin
 4. Market  -  EF1 version; compute an EF1 + PO allocation using market based algorithms for valuations V
-  4. market_eq
-
+  - market_eq
+```
 #### 4. [property.py](property.py)
 checks if output satisfies different properties like equitability, Envy Faireness etc etc
 
