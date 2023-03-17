@@ -1,0 +1,26 @@
+{
+    "completed": 38,
+    "interesting_instances": 38,
+    "mnw": {
+        "dupeq1": 38,
+        "dupeqx": 32,
+        "ef": 6,
+        "ef+po": 6,
+        "ef1": 38,
+        "ef1+po": 38,
+        "efx": 34,
+        "efx+po": 34,
+        "eq": 0,
+        "eq+po": 0,
+        "eq1": 38,
+        "eq1+ef1+po": 38,
+        "eq1+po": 38,
+        "eqx": 32,
+        "eqx+efx+po": 31,
+        "eqx+po": 32,
+        "instances": 38,
+        "po": 38,
+        "total_time": 19.73726725578308
+    },
+    "num_instances": 1000
+}

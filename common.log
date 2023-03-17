@@ -1,0 +1,739 @@
+2023-02-09 00:12:15,153 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 00:12:15,158 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 00:12:15,668 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.5230989456176758s, status True
+2023-02-09 00:12:15,670 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 00:12:15,671 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 00:12:15,672 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 00:12:15,673 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 00:12:15,674 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 00:15:02,127 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 00:15:02,130 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 00:15:02,771 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.6495099067687988s, status True
+2023-02-09 00:15:02,772 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 00:15:02,773 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 00:15:02,774 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 00:15:02,775 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 00:15:02,776 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 16:04:15,381 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:04:15,392 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:04:16,224 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.8513028621673584s, status True
+2023-02-09 16:04:16,226 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:04:16,228 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:04:16,230 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:04:16,232 DEBUG property 292 ispo:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:04:16,234 DEBUG property 294 ispo:: ILP infeasible with tolerance 0.1
+2023-02-09 16:11:43,468 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:11:43,472 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:11:43,795 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.3328216075897217s, status True
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:11:43,796 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:11:43,797 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:11:43,797 DEBUG property 371 ispo2:: ILP infeasible with tolerance 0.1
+2023-02-09 16:12:40,518 INFO solution 42 mnw_solve:: Set parameter Username
+2023-02-09 16:12:40,522 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-02-09 16:12:41,137 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.6208090782165527s, status True
+2023-02-09 16:12:41,141 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.0001
+2023-02-09 16:12:41,142 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.001
+2023-02-09 16:12:41,143 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.01
+2023-02-09 16:12:41,145 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.1
+2023-02-09 16:12:41,146 DEBUG property 371 ispo2:: ILP infeasible with tolerance 0.1
+2023-03-17 17:55:10,719 INFO solution 42 mnw_solve:: Set parameter Username
+2023-03-17 17:55:10,724 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-03-17 17:55:11,260 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.547173023223877s, status True
+2023-03-17 17:55:11,261 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.0001
+2023-03-17 17:55:11,261 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.001
+2023-03-17 17:55:11,262 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.01
+2023-03-17 17:55:11,262 DEBUG property 369 ispo2:: ILP infeasible, retry with tolerance 0.1
+2023-03-17 17:55:11,263 DEBUG property 371 ispo2:: ILP infeasible with tolerance 0.1
+2023-03-17 18:08:53,949 INFO solution 42 mnw_solve:: Set parameter Username
+2023-03-17 18:08:53,955 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-03-17 18:08:54,541 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.597794771194458s, status True
+2023-03-17 18:09:19,306 INFO solution 42 mnw_solve:: Set parameter Username
+2023-03-17 18:09:19,311 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-03-17 18:09:19,803 INFO eq 157 eq_goods:: done with mnw for instance 1 in 0.5024290084838867s, status True
+2023-03-17 18:09:19,805 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eq: 0
+2023-03-17 18:09:19,805 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eq1: 1
+2023-03-17 18:09:19,805 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:19,806 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eqx: 1
+2023-03-17 18:09:19,806 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:19,806 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies ef: 0
+2023-03-17 18:09:19,806 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies ef1: 1
+2023-03-17 18:09:19,806 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies efx: 1
+2023-03-17 18:09:19,807 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies po: 1
+2023-03-17 18:09:19,808 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:19,809 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:19,810 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:19,810 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:19,811 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:19,812 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:19,813 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:19,814 DEBUG eq 36 update_results:: instance 1, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:20,225 INFO eq 157 eq_goods:: done with mnw for instance 2 in 0.4104878902435303s, status True
+2023-03-17 18:09:20,226 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eq: 0
+2023-03-17 18:09:20,226 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eq1: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eqx: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies ef: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies ef1: 1
+2023-03-17 18:09:20,227 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies efx: 1
+2023-03-17 18:09:20,228 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies po: 1
+2023-03-17 18:09:20,229 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:20,229 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:20,230 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:20,231 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:20,232 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:20,233 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:20,234 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:20,235 DEBUG eq 36 update_results:: instance 2, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:20,660 INFO eq 157 eq_goods:: done with mnw for instance 3 in 0.4244418144226074s, status True
+2023-03-17 18:09:20,661 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eq: 0
+2023-03-17 18:09:20,661 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eq1: 1
+2023-03-17 18:09:20,661 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:20,661 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eqx: 1
+2023-03-17 18:09:20,661 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:20,662 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies ef: 0
+2023-03-17 18:09:20,662 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies ef1: 1
+2023-03-17 18:09:20,662 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies efx: 1
+2023-03-17 18:09:20,663 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies po: 1
+2023-03-17 18:09:20,663 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:20,664 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:20,665 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:20,666 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:20,667 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:20,668 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:20,669 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:20,670 DEBUG eq 36 update_results:: instance 3, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:21,253 INFO eq 157 eq_goods:: done with mnw for instance 4 in 0.5820269584655762s, status True
+2023-03-17 18:09:21,257 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eq: 0
+2023-03-17 18:09:21,257 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eq1: 1
+2023-03-17 18:09:21,258 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:21,258 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eqx: 1
+2023-03-17 18:09:21,258 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:21,258 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies ef: 0
+2023-03-17 18:09:21,259 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies ef1: 1
+2023-03-17 18:09:21,259 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies efx: 1
+2023-03-17 18:09:21,261 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies po: 1
+2023-03-17 18:09:21,263 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:21,266 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:21,268 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:21,270 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:21,275 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:21,277 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:21,279 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:21,281 DEBUG eq 36 update_results:: instance 4, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:21,801 INFO eq 157 eq_goods:: done with mnw for instance 5 in 0.517970085144043s, status True
+2023-03-17 18:09:21,802 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eq: 0
+2023-03-17 18:09:21,802 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eq1: 1
+2023-03-17 18:09:21,802 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:21,803 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eqx: 1
+2023-03-17 18:09:21,803 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:21,803 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies ef: 0
+2023-03-17 18:09:21,803 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies ef1: 1
+2023-03-17 18:09:21,803 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies efx: 1
+2023-03-17 18:09:21,804 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies po: 1
+2023-03-17 18:09:21,805 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:21,806 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:21,807 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:21,807 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:21,808 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:21,809 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:21,810 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:21,812 DEBUG eq 36 update_results:: instance 5, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:22,432 INFO eq 157 eq_goods:: done with mnw for instance 6 in 0.6194918155670166s, status True
+2023-03-17 18:09:22,437 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eq: 0
+2023-03-17 18:09:22,437 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eq1: 1
+2023-03-17 18:09:22,438 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:22,438 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eqx: 1
+2023-03-17 18:09:22,439 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:22,439 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies ef: 0
+2023-03-17 18:09:22,439 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies ef1: 1
+2023-03-17 18:09:22,439 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies efx: 1
+2023-03-17 18:09:22,442 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies po: 1
+2023-03-17 18:09:22,445 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:22,448 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:22,452 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:22,457 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:22,461 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:22,465 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:22,469 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:22,473 DEBUG eq 36 update_results:: instance 6, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:23,073 INFO eq 157 eq_goods:: done with mnw for instance 7 in 0.5972890853881836s, status True
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eq: 0
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eq1: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eqx: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies ef: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies ef1: 1
+2023-03-17 18:09:23,075 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies efx: 1
+2023-03-17 18:09:23,076 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies po: 1
+2023-03-17 18:09:23,077 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:23,078 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:23,079 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:23,080 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:23,082 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:23,083 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:23,083 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:23,085 DEBUG eq 36 update_results:: instance 7, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:24,085 INFO eq 157 eq_goods:: done with mnw for instance 8 in 1.0000879764556885s, status True
+2023-03-17 18:09:24,087 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eq: 0
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eq1: 1
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eqx: 0
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies ef: 0
+2023-03-17 18:09:24,088 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies ef1: 1
+2023-03-17 18:09:24,089 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies efx: 0
+2023-03-17 18:09:24,090 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies po: 1
+2023-03-17 18:09:24,091 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:24,093 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:24,095 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:24,097 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:24,098 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:24,100 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:24,102 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:24,103 DEBUG eq 36 update_results:: instance 8, method mnw, satisfies efx+po: 0
+2023-03-17 18:09:24,831 INFO eq 157 eq_goods:: done with mnw for instance 9 in 0.7267172336578369s, status True
+2023-03-17 18:09:24,834 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eq: 0
+2023-03-17 18:09:24,835 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eq1: 1
+2023-03-17 18:09:24,835 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:24,835 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eqx: 1
+2023-03-17 18:09:24,835 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:24,836 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies ef: 0
+2023-03-17 18:09:24,836 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies ef1: 1
+2023-03-17 18:09:24,836 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies efx: 1
+2023-03-17 18:09:24,838 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies po: 1
+2023-03-17 18:09:24,840 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:24,843 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:24,845 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:24,847 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:24,849 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:24,850 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:24,852 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:24,854 DEBUG eq 36 update_results:: instance 9, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:25,394 INFO eq 157 eq_goods:: done with mnw for instance 10 in 0.5372982025146484s, status True
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eq: 0
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eq1: 1
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eqx: 1
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies ef: 0
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies ef1: 1
+2023-03-17 18:09:25,395 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies efx: 1
+2023-03-17 18:09:25,396 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies po: 1
+2023-03-17 18:09:25,397 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:25,398 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:25,399 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:25,399 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:25,400 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:25,401 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:25,402 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:25,403 DEBUG eq 36 update_results:: instance 10, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:25,882 INFO eq 157 eq_goods:: done with mnw for instance 11 in 0.4783310890197754s, status True
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eq: 0
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eq1: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eqx: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies ef: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies ef1: 1
+2023-03-17 18:09:25,884 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies efx: 1
+2023-03-17 18:09:25,885 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies po: 1
+2023-03-17 18:09:25,886 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:25,887 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:25,887 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:25,888 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:25,889 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:25,890 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:25,891 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:25,892 DEBUG eq 36 update_results:: instance 11, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:26,315 INFO eq 157 eq_goods:: done with mnw for instance 12 in 0.42201995849609375s, status True
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eq: 0
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eq1: 1
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eqx: 1
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies ef: 0
+2023-03-17 18:09:26,316 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies ef1: 1
+2023-03-17 18:09:26,317 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies efx: 1
+2023-03-17 18:09:26,317 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies po: 1
+2023-03-17 18:09:26,318 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:26,319 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:26,320 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:26,320 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:26,321 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:26,322 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:26,323 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:26,324 DEBUG eq 36 update_results:: instance 12, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:26,795 INFO eq 157 eq_goods:: done with mnw for instance 13 in 0.469893217086792s, status True
+2023-03-17 18:09:26,796 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eq: 0
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eq1: 1
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eqx: 0
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies ef: 0
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies ef1: 1
+2023-03-17 18:09:26,797 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies efx: 1
+2023-03-17 18:09:26,798 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies po: 1
+2023-03-17 18:09:26,799 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:26,799 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:26,800 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:26,801 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:26,802 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:26,802 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:26,803 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:26,804 DEBUG eq 36 update_results:: instance 13, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:27,245 INFO eq 157 eq_goods:: done with mnw for instance 14 in 0.43997883796691895s, status True
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eq: 0
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eq1: 1
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eqx: 1
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies ef: 0
+2023-03-17 18:09:27,246 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies ef1: 1
+2023-03-17 18:09:27,247 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies efx: 1
+2023-03-17 18:09:27,248 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies po: 1
+2023-03-17 18:09:27,249 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:27,250 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:27,251 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:27,252 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:27,253 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:27,254 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:27,255 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:27,256 DEBUG eq 36 update_results:: instance 14, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:27,700 INFO eq 157 eq_goods:: done with mnw for instance 15 in 0.44369006156921387s, status True
+2023-03-17 18:09:27,701 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eq: 0
+2023-03-17 18:09:27,701 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eq1: 1
+2023-03-17 18:09:27,701 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:27,702 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eqx: 1
+2023-03-17 18:09:27,702 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:27,702 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies ef: 0
+2023-03-17 18:09:27,702 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies ef1: 1
+2023-03-17 18:09:27,702 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies efx: 1
+2023-03-17 18:09:27,703 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies po: 1
+2023-03-17 18:09:27,704 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:27,704 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:27,705 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:27,706 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:27,707 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:27,708 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:27,709 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:27,710 DEBUG eq 36 update_results:: instance 15, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:28,123 INFO eq 157 eq_goods:: done with mnw for instance 16 in 0.41211915016174316s, status True
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eq: 0
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eq1: 1
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eqx: 1
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies ef: 0
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies ef1: 1
+2023-03-17 18:09:28,124 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies efx: 1
+2023-03-17 18:09:28,125 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies po: 1
+2023-03-17 18:09:28,126 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:28,127 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:28,128 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:28,129 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:28,130 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:28,132 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:28,133 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:28,134 DEBUG eq 36 update_results:: instance 16, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:28,603 INFO eq 157 eq_goods:: done with mnw for instance 17 in 0.46814584732055664s, status True
+2023-03-17 18:09:28,604 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eq: 0
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eq1: 1
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eqx: 1
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies ef: 0
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies ef1: 1
+2023-03-17 18:09:28,605 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies efx: 1
+2023-03-17 18:09:28,606 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies po: 1
+2023-03-17 18:09:28,607 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:28,608 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:28,609 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:28,610 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:28,611 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:28,612 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:28,613 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:28,614 DEBUG eq 36 update_results:: instance 17, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:29,136 INFO eq 157 eq_goods:: done with mnw for instance 18 in 0.5212461948394775s, status True
+2023-03-17 18:09:29,137 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eq: 0
+2023-03-17 18:09:29,137 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eq1: 1
+2023-03-17 18:09:29,137 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:29,137 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eqx: 1
+2023-03-17 18:09:29,137 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:29,138 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies ef: 0
+2023-03-17 18:09:29,138 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies ef1: 1
+2023-03-17 18:09:29,138 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies efx: 1
+2023-03-17 18:09:29,139 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies po: 1
+2023-03-17 18:09:29,140 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:29,141 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:29,142 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:29,143 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:29,144 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:29,145 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:29,147 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:29,148 DEBUG eq 36 update_results:: instance 18, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:29,613 INFO eq 157 eq_goods:: done with mnw for instance 19 in 0.4645509719848633s, status True
+2023-03-17 18:09:29,614 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eq: 0
+2023-03-17 18:09:29,614 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eq1: 1
+2023-03-17 18:09:29,614 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:29,614 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eqx: 1
+2023-03-17 18:09:29,615 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:29,615 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies ef: 0
+2023-03-17 18:09:29,615 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies ef1: 1
+2023-03-17 18:09:29,615 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies efx: 1
+2023-03-17 18:09:29,616 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies po: 1
+2023-03-17 18:09:29,617 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:29,617 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:29,618 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:29,619 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:29,620 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:29,621 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:29,622 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:29,623 DEBUG eq 36 update_results:: instance 19, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:30,086 INFO eq 157 eq_goods:: done with mnw for instance 20 in 0.46207499504089355s, status True
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eq: 0
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eq1: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eqx: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies ef: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies ef1: 1
+2023-03-17 18:09:30,087 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies efx: 1
+2023-03-17 18:09:30,088 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies po: 1
+2023-03-17 18:09:30,089 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:30,090 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:30,091 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:30,092 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:30,092 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:30,093 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:30,094 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:30,095 DEBUG eq 36 update_results:: instance 20, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:30,571 INFO eq 157 eq_goods:: done with mnw for instance 21 in 0.47533583641052246s, status True
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eq: 0
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eq1: 1
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eqx: 1
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:30,572 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies ef: 0
+2023-03-17 18:09:30,573 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies ef1: 1
+2023-03-17 18:09:30,573 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies efx: 1
+2023-03-17 18:09:30,574 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies po: 1
+2023-03-17 18:09:30,575 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:30,576 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:30,577 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:30,577 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:30,578 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:30,579 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:30,580 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:30,581 DEBUG eq 36 update_results:: instance 21, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:31,678 INFO eq 157 eq_goods:: done with mnw for instance 22 in 1.0967748165130615s, status True
+2023-03-17 18:09:31,680 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eq: 0
+2023-03-17 18:09:31,681 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eq1: 1
+2023-03-17 18:09:31,681 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:31,681 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eqx: 1
+2023-03-17 18:09:31,682 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:31,682 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies ef: 0
+2023-03-17 18:09:31,682 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies ef1: 1
+2023-03-17 18:09:31,682 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies efx: 1
+2023-03-17 18:09:31,684 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies po: 1
+2023-03-17 18:09:31,685 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:31,687 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:31,688 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:31,689 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:31,691 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:31,693 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:31,695 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:31,698 DEBUG eq 36 update_results:: instance 22, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:32,415 INFO eq 157 eq_goods:: done with mnw for instance 23 in 0.715907096862793s, status True
+2023-03-17 18:09:32,418 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eq: 0
+2023-03-17 18:09:32,418 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eq1: 1
+2023-03-17 18:09:32,418 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:32,418 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eqx: 1
+2023-03-17 18:09:32,419 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:32,419 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies ef: 0
+2023-03-17 18:09:32,419 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies ef1: 1
+2023-03-17 18:09:32,419 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies efx: 1
+2023-03-17 18:09:32,421 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies po: 1
+2023-03-17 18:09:32,423 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:32,425 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:32,426 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:32,428 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:32,430 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:32,432 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:32,434 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:32,436 DEBUG eq 36 update_results:: instance 23, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:33,016 INFO eq 157 eq_goods:: done with mnw for instance 24 in 0.5786621570587158s, status True
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eq: 0
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eq1: 1
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eqx: 1
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies ef: 0
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies ef1: 1
+2023-03-17 18:09:33,017 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies efx: 1
+2023-03-17 18:09:33,018 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies po: 1
+2023-03-17 18:09:33,019 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:33,020 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:33,021 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:33,022 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:33,023 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:33,024 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:33,025 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:33,026 DEBUG eq 36 update_results:: instance 24, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:33,469 INFO eq 157 eq_goods:: done with mnw for instance 25 in 0.4422447681427002s, status True
+2023-03-17 18:09:33,470 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eq: 0
+2023-03-17 18:09:33,470 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eq1: 1
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eqx: 0
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies ef: 0
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies ef1: 1
+2023-03-17 18:09:33,471 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies efx: 0
+2023-03-17 18:09:33,472 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies po: 1
+2023-03-17 18:09:33,473 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:33,474 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:33,475 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:33,476 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:33,477 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:33,478 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:33,479 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:33,480 DEBUG eq 36 update_results:: instance 25, method mnw, satisfies efx+po: 0
+2023-03-17 18:09:33,933 INFO eq 157 eq_goods:: done with mnw for instance 26 in 0.45214104652404785s, status True
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eq: 0
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eq1: 1
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eqx: 0
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies ef: 0
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies ef1: 1
+2023-03-17 18:09:33,934 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies efx: 1
+2023-03-17 18:09:33,935 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies po: 1
+2023-03-17 18:09:33,936 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:33,937 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:33,938 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:33,938 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:33,939 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:33,940 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:33,941 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:33,942 DEBUG eq 36 update_results:: instance 26, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:45,256 INFO solution 42 mnw_solve:: Set parameter Username
+2023-03-17 18:09:45,260 INFO solution 42 mnw_solve:: Academic license - for non-commercial use only - expires 2024-01-31
+2023-03-17 18:09:45,786 INFO eq 157 eq_goods:: done with mnw for instance 27 in 0.5311450958251953s, status True
+2023-03-17 18:09:45,787 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eq: 0
+2023-03-17 18:09:45,787 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eq1: 1
+2023-03-17 18:09:45,787 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:45,787 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eqx: 1
+2023-03-17 18:09:45,788 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:45,788 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies ef: 0
+2023-03-17 18:09:45,788 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies ef1: 1
+2023-03-17 18:09:45,788 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies efx: 1
+2023-03-17 18:09:45,789 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies po: 1
+2023-03-17 18:09:45,789 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:45,790 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:45,791 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:45,792 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:45,792 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:45,793 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:45,794 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:45,795 DEBUG eq 36 update_results:: instance 27, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:46,240 INFO eq 157 eq_goods:: done with mnw for instance 28 in 0.4442718029022217s, status True
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eq: 0
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eq1: 1
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eqx: 1
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies ef: 0
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies ef1: 1
+2023-03-17 18:09:46,241 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies efx: 1
+2023-03-17 18:09:46,242 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies po: 1
+2023-03-17 18:09:46,243 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:46,244 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:46,245 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:46,246 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:46,247 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:46,248 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:46,249 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:46,250 DEBUG eq 36 update_results:: instance 28, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:46,664 INFO eq 157 eq_goods:: done with mnw for instance 29 in 0.4136922359466553s, status True
+2023-03-17 18:09:46,665 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eq: 0
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eq1: 1
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eqx: 1
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies ef: 0
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies ef1: 1
+2023-03-17 18:09:46,666 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies efx: 1
+2023-03-17 18:09:46,667 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies po: 1
+2023-03-17 18:09:46,668 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:46,669 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:46,670 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:46,671 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:46,672 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:46,673 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:46,674 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:46,674 DEBUG eq 36 update_results:: instance 29, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:47,037 INFO eq 157 eq_goods:: done with mnw for instance 30 in 0.36173009872436523s, status True
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eq: 0
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eq1: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eqx: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies ef: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies ef1: 1
+2023-03-17 18:09:47,038 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies efx: 1
+2023-03-17 18:09:47,039 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies po: 1
+2023-03-17 18:09:47,040 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:47,041 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:47,042 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:47,043 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:47,044 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:47,045 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:47,045 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:47,046 DEBUG eq 36 update_results:: instance 30, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:47,493 INFO eq 157 eq_goods:: done with mnw for instance 31 in 0.44570493698120117s, status True
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eq: 0
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eq1: 1
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eqx: 0
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies ef: 0
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies ef1: 1
+2023-03-17 18:09:47,494 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies efx: 1
+2023-03-17 18:09:47,495 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies po: 1
+2023-03-17 18:09:47,496 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:47,497 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:47,498 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:47,499 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:47,500 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:47,501 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:47,502 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:47,503 DEBUG eq 36 update_results:: instance 31, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:47,971 INFO eq 157 eq_goods:: done with mnw for instance 32 in 0.46730494499206543s, status True
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eq: 0
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eq1: 1
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eqx: 0
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies dupeqx: 0
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies ef: 0
+2023-03-17 18:09:47,972 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies ef1: 1
+2023-03-17 18:09:47,973 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies efx: 0
+2023-03-17 18:09:47,973 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies po: 1
+2023-03-17 18:09:47,974 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:47,975 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:47,976 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eqx+po: 0
+2023-03-17 18:09:47,977 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:47,978 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:47,979 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:47,980 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:47,981 DEBUG eq 36 update_results:: instance 32, method mnw, satisfies efx+po: 0
+2023-03-17 18:09:48,457 INFO eq 157 eq_goods:: done with mnw for instance 33 in 0.4758141040802002s, status True
+2023-03-17 18:09:48,458 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eq: 0
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eq1: 1
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eqx: 1
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies ef: 0
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies ef1: 1
+2023-03-17 18:09:48,459 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies efx: 1
+2023-03-17 18:09:48,460 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies po: 1
+2023-03-17 18:09:48,461 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:48,462 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:48,462 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:48,464 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:48,465 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:48,466 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:48,467 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:48,468 DEBUG eq 36 update_results:: instance 33, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:48,968 INFO eq 157 eq_goods:: done with mnw for instance 34 in 0.4989151954650879s, status True
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eq: 0
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eq1: 1
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eqx: 1
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies ef: 0
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies ef1: 1
+2023-03-17 18:09:48,970 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies efx: 0
+2023-03-17 18:09:48,971 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies po: 1
+2023-03-17 18:09:48,972 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:48,973 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:48,974 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:48,974 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:48,975 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies eqx+efx+po: 0
+2023-03-17 18:09:48,976 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:48,977 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:48,978 DEBUG eq 36 update_results:: instance 34, method mnw, satisfies efx+po: 0
+2023-03-17 18:09:49,441 INFO eq 157 eq_goods:: done with mnw for instance 35 in 0.4621419906616211s, status True
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eq: 0
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eq1: 1
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eqx: 1
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies ef: 0
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies ef1: 1
+2023-03-17 18:09:49,442 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies efx: 1
+2023-03-17 18:09:49,443 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies po: 1
+2023-03-17 18:09:49,444 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:49,445 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:49,446 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:49,447 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:49,448 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:49,449 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:49,450 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:49,451 DEBUG eq 36 update_results:: instance 35, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:49,949 INFO eq 157 eq_goods:: done with mnw for instance 36 in 0.49639892578125s, status True
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eq: 0
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eq1: 1
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eqx: 1
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies ef: 1
+2023-03-17 18:09:49,950 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies ef1: 1
+2023-03-17 18:09:49,951 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies efx: 1
+2023-03-17 18:09:49,951 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies po: 1
+2023-03-17 18:09:49,952 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:49,953 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:49,954 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:49,955 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:49,956 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:49,957 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies ef+po: 1
+2023-03-17 18:09:49,957 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:49,959 DEBUG eq 36 update_results:: instance 36, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:50,415 INFO eq 157 eq_goods:: done with mnw for instance 37 in 0.4553699493408203s, status True
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eq: 0
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eq1: 1
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eqx: 1
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies ef: 0
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies ef1: 1
+2023-03-17 18:09:50,416 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies efx: 1
+2023-03-17 18:09:50,417 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies po: 1
+2023-03-17 18:09:50,418 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:50,419 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:50,420 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:50,421 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:50,422 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:50,423 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:50,424 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:50,425 DEBUG eq 36 update_results:: instance 37, method mnw, satisfies efx+po: 1
+2023-03-17 18:09:50,849 INFO eq 157 eq_goods:: done with mnw for instance 38 in 0.42342185974121094s, status True
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eq: 0
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eq1: 1
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies dupeq1: 1
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eqx: 1
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies dupeqx: 1
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies ef: 0
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies ef1: 1
+2023-03-17 18:09:50,850 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies efx: 1
+2023-03-17 18:09:50,851 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies po: 1
+2023-03-17 18:09:50,852 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eq+po: 0
+2023-03-17 18:09:50,853 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eq1+po: 1
+2023-03-17 18:09:50,853 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eqx+po: 1
+2023-03-17 18:09:50,854 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eq1+ef1+po: 1
+2023-03-17 18:09:50,855 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies eqx+efx+po: 1
+2023-03-17 18:09:50,856 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies ef+po: 0
+2023-03-17 18:09:50,857 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies ef1+po: 1
+2023-03-17 18:09:50,858 DEBUG eq 36 update_results:: instance 38, method mnw, satisfies efx+po: 1

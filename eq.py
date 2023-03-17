@@ -134,7 +134,8 @@ def stats_spliddit():
 def eq_goods():
     #Loading preferences into an array I 
     # Consists of instances of fair division Instance i = [Agent, Item, Valuation/Prefernces]
-    I = load_real_instances()
+#    I = load_real_instances()
+    I = generate_positive_dirichlet_instances(3,2,1000)
     num_instances = len(I)
     print('loaded {} instances'.format(num_instances))
     results, allocations = load_results(num_instances)
@@ -154,7 +155,8 @@ def eq_goods():
         status, w, U, A = mnw(V) 
         end = time.time()
         logging.info('done with {} for instance {} in {}s, status {}'.format('mnw', count, end - start, status))
-        po = ispo(V, A)
+        #po = ispo(V, A)
+        po =ispo(V,A) 
         ef1 = isef1(V, A)
         if not po or not ef1:
             logging.debug('{} solution failed property test ef1={} po={}'.format('mnw', ef1, po))
@@ -168,38 +170,38 @@ def eq_goods():
             failed_instances.append((count, 'mnw'))
 
         start = time.time()
-        status, w, U, A = leximin(V)
-        end = time.time()
-        logging.info('done with {} for instance {} in {}s, status {}'.format('leximin', count, end - start, status))
-        po = ispo(V, A)
-        eqx = iseqx(V, A)
-        if not po or not eqx:
-            logging.debug('{} solution failed property test eqx={} po={}'.format('leximin', eqx, po))
-            failed_instances.append((count, 'leximin'))
-            with open('failed.json', 'w') as fo:
-                fo.write(json.dumps(failed_instances, sort_keys=True, indent=4, separators=(',', ': ')))
-            sys.exit()
-        if status:
-            results = update_results(V, A, results, 'leximin', end - start, instance_id=count)
-        else:
-            failed_instances.append((count, 'leximin'))
+        # status, w, U, A = leximin(V)
+        # end = time.time()
+        # logging.info('done with {} for instance {} in {}s, status {}'.format('leximin', count, end - start, status))
+        # po = ispo(V, A)
+        # eqx = iseqx(V, A)
+        # if not po or not eqx:
+        #     logging.debug('{} solution failed property test eqx={} po={}'.format('leximin', eqx, po))
+        #     failed_instances.append((count, 'leximin'))
+        #     with open('failed.json', 'w') as fo:
+        #         fo.write(json.dumps(failed_instances, sort_keys=True, indent=4, separators=(',', ': ')))
+        #     sys.exit()
+        # if status:
+        #     results = update_results(V, A, results, 'leximin', end - start, instance_id=count)
+        # else:
+        #     failed_instances.append((count, 'leximin'))
 
-        start = time.time()
-        status, A, p = market_eq(V)
-        end = time.time()
-        logging.info('done with {} for instance {} in {}s, status {}'.format('market_eq', count, end - start, status))
-        po = ispo(V, A)
-        eq1 = iseq1(V, A)
-        if not po or not eq1:
-            logging.debug('{} solution failed property test eq1={} po={}'.format('market_eq', eq1, po))
-            failed_instances.append((count, 'market_eq'))
-            with open('failed.json', 'w') as fo:
-                fo.write(json.dumps(failed_instances, sort_keys=True, indent=4, separators=(',', ': ')))
-            sys.exit()
-        if status:
-            results = update_results(V, A, results, 'market_eq', end - start, instance_id=count)
-        else:
-            failed_instances.append((count, 'market_eq'))
+        # start = time.time()
+        # status, A, p = market_eq(V)
+        # end = time.time()
+        # logging.info('done with {} for instance {} in {}s, status {}'.format('market_eq', count, end - start, status))
+        # po = ispo(V, A)
+        # eq1 = iseq1(V, A)
+        # if not po or not eq1:
+        #     logging.debug('{} solution failed property test eq1={} po={}'.format('market_eq', eq1, po))
+        #     failed_instances.append((count, 'market_eq'))
+        #     with open('failed.json', 'w') as fo:
+        #         fo.write(json.dumps(failed_instances, sort_keys=True, indent=4, separators=(',', ': ')))
+        #     sys.exit()
+        # if status:
+        #     results = update_results(V, A, results, 'market_eq', end - start, instance_id=count)
+        # else:
+        #     failed_instances.append((count, 'market_eq'))
 
         results['completed'] = count
         interesting_instances = interesting_instances + 1
