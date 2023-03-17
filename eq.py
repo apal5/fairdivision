@@ -156,7 +156,7 @@ def eq_goods():
         end = time.time()
         logging.info('done with {} for instance {} in {}s, status {}'.format('mnw', count, end - start, status))
         #po = ispo(V, A)
-        po =ispo2(V,A) 
+        po =ispo(V,A) 
         ef1 = isef1(V, A)
         if not po or not ef1:
             logging.debug('{} solution failed property test ef1={} po={}'.format('mnw', ef1, po))
