@@ -136,7 +136,7 @@ def eq_goods():
     # Consists of instances of fair division Instance i = [Agent, Item, Valuation/Prefernces]
 #    I = load_real_instances()
     # I = generate_positive_dirichlet_instances(3,2,1000)
-    I = generate_positive_dirichlet_instances(3,2,20)
+    I = generate_positive_dirichlet_instances(3,2,100)
     num_instances = len(I)
     print('loaded {} instances'.format(num_instances))
     results, allocations = load_results(num_instances)
